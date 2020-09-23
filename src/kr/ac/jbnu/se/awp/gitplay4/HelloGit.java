@@ -6,6 +6,6 @@ public class HelloGit {
 
 		System.out.println("Hello Git 4");
 		System.out.println("Hello Git_Sua");
-		System.out.println("Hello Git_yejin");
+		System.out.println("Hello Git_yejin restart");
 	}
 }
